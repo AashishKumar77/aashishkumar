@@ -1,34 +1,55 @@
-👋 Hi there
+# Hi, I'm Aashish 👋  
 
-👨‍💻 I’m a Full Stack Developer with 8+ years of experience
+🚀 Passionate software engineer with hands-on experience in **cloud infrastructure, full-stack development, and data engineering**.  
+I love solving problems at scale, optimizing workflows, and building systems that just work.  
 
-⚡ Skilled in Node.js, React.js, AWS Services
+---
 
-📜 AWS Certified Developer – Associate
+## 💼 Experience
+- **Cloud & Infrastructure:**  
+  - Google Cloud (Workflows, Pub/Sub, BigQuery, Storage, IAM)  
+  - Pulumi & Terraform for Infrastructure as Code  
+- **Backend Development:**  
+  - Node.js / Blitz.js / Next.js  
+  - REST APIs, Serverless APIs, Pub/Sub pipelines  
+- **Frontend Development:**  
+  - React, Chakra UI, TailwindCSS  
+  - State management (Jotai, Redux)  
+- **Data Engineering:**  
+  - BigQuery schema design & query optimization  
+  - Building pipelines for large-scale metrics ingestion  
 
-🚀 Passionate about building scalable web applications & cloud-native solutions
+---
 
-🌱 Currently learning more about Serverless Architectures & DevOps
+## 🔧 Skills & Tools
+- Languages: **TypeScript, JavaScript, Python, SQL**  
+- Frameworks: **Next.js, Blitz.js, Express.js**  
+- Databases: **PostgreSQL, BigQuery**  
+- DevOps: **Pulumi, Docker, GitHub Actions**  
+- Cloud: **Google Cloud Platform (GCP)**  
+- Others: **Prisma ORM, Pandas (Python), AWS (in progress)**  
 
-💬 Ask me about Full Stack Development | AWS | System Design
+---
 
-📫 Reach me at: [aashish071996@gmail.com]
+## 📌 Current Focus
+- Working on **metrics ingestion pipeline** with GCP Workflows & Pub/Sub  
+- Preparing for **AWS Solutions Architect Certification**  
+- Exploring **data visualization & scalable architecture**  
 
-🎯 Always exploring new tech trends & best practices
+---
 
-🏋️ Fun fact: I love problem-solving and mentoring budding developers
+## 📂 Featured Projects
+- 🔹 [Metrics Data Pipeline](#) – Automated ingestion pipeline using **GCP Workflows + Pub/Sub + BigQuery**  
+- 🔹 [Ad Campaign Manager](#) – Smart bidding system for Takeaway, Wolt & UberEats APIs  
+- 🔹 [React Performance Dashboard](#) – Interactive metrics dashboard with dynamic columns  
 
+---
 
-🔧 Tech Stack
+## 📫 Connect with Me
+- GitHub: [@AashishKumar77](https://github.com/AashishKumar77)  
+- LinkedIn: [Your LinkedIn](#)  
+- Email: [aashish071996@gmail.com](mailto:aashish071996@gmail.com)  
 
-Languages: JavaScript, TypeScript, Python
+---
 
-Frontend: React.js, Next.js, Material-UI
-
-Backend: Node.js, Express.js, GraphQL
-
-Cloud & DevOps: AWS (Lambda, S3, EC2, RDS, DynamoDB, CloudFormation), Docker, Kubernetes
-
-Databases: MongoDB, PostgreSQL, MySQL
-
-Tools: Git, GitHub Actions, CI/CD, Terraform
+⭐️ *Always excited to collaborate on interesting projects and learn new things!*
